@@ -1,6 +1,4 @@
-# CSC190H1-20181-Labs-And-Assignments
-
-## Labs
+# Labs
 Descriptions of each lab are provided in the corresponding .txt files, but here's an index by topic.
 
 * Lab 1: Stacks, Queues, Building a paranthesis checker.

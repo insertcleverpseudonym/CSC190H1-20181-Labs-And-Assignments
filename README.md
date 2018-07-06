@@ -1,5 +1,5 @@
 # Labs
-Descriptions of each lab are provided in the corresponding .txt files, but here's an index by topic.
+Descriptions of each lab are provided in the corresponding files as docstrings, but here's an index by topic.
 
 * Lab 1: Stacks, Queues, Building a paranthesis checker.
 * Lab 2: k-ary Trees, Binary Trees, converting between both of these.
